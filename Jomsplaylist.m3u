@@ -1976,7 +1976,15 @@ http://122.53.138.32:8000/dwbr.mp3
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 
+#EXTINF:-1 group-title="ARENA SPORT" tvg-id="" tvg-logo="https://bb-media.com/wp-content/uploads/2024/12/images.png",Arena Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
+#EXTINF:-1 group-title="ASTRO GRANDSTAND FHD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND FHD
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/303505.ts
 
 
 
