@@ -6,6 +6,13 @@
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gamereactor.eu/media/59/disneymakesbig_4225953.jpg" channel-number="1" group-title="Cignal", Disney+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Cignal", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1976,19 +1983,24 @@ http://122.53.138.32:8000/dwbr.mp3
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 
-#EXTINF:-1 group-title="ARENA SPORT" tvg-id="" tvg-logo="https://bb-media.com/wp-content/uploads/2024/12/images.png" group-title="INT'L FEEDS",Arena Sport 1
+#EXTINF:-1 group-title="INTERNATIONAL FEEDS" tvg-id="" tvg-logo="https://bb-media.com/wp-content/uploads/2024/12/images.png",Arena Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0":"7099325123bae7810db508727bb0bc7d","c43c83acda60593d8e3607efd5010d7d":"526f4a760ef52ab85056fbc10ea27584","712090aae2065c21951b170bc3002330":"a97774e4175b80205c3cf104e9574208"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
-#EXTINF:-1 group-title="ASTRO GRANDSTAND FHD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png" group-title="INT'L FEEDS",ASTRO GRANDSTAND FHD
+#EXTINF:-1 group-title="INTERNATIONAL FEEDS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/960px-Astro_Grandstand_%282024%29.png",ASTRO GRANDSTAND FHD
 http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/303505.ts
 
-#EXTINF:-1 group-title="ASTRO GRANDSTAND FHD" tvg-id="" tvg-logo="https://www.zink.ca/wp-content/uploads/2020/08/Flix52-1024x576.jpg" group-title="INT'L FEEDS",&FLIX
+#EXTINF:-1 group-title="INTERNATIONAL FEEDS" tvg-id="" tvg-logo="https://www.zink.ca/wp-content/uploads/2020/08/Flix52-1024x576.jpg",&FLIX
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
+#EXTINF:-1 group-title="INTERNATIONAL FEEDS" tvg-id="" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2025/07/hbo-max-logo-rings.jpg",HBO MAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
+https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lfboh9f8fh/out/v1/0c50ed44bc074cefa95d7ed4bd3bb793/cenc.mpd
 
 
 
