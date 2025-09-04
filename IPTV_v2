@@ -933,3 +933,9 @@ https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c82817
 
 #EXTINF:-1 tvg-logo="https://cdn.iptvboss.pro/logos/International_Sports/DAZN1.de.png" tvg-id="" tvg-chno="1003" group-title="Sports",DAZN1 [FHD]
 http://68.233.120.207:9981/stream/channelid/1654052188?profile=pass
+
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.HD.ph" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="local-tv",Kapamilya Channel HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
